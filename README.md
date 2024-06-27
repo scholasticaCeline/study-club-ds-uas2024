@@ -1,18 +1,17 @@
 # Study Club Data Structure UAS
 
 ## Kisi-kisi UAS:
-1. Essay
-    - AVL (Simulasi)
-    - B-Tree (Simulasi)
-    - RB Tree (Simulasi + Perbandingan dengan AVL)
-    - Heaps (Teori + Simulasi)
-    - Disjoint Set (Teori + Simulasi)
-2. Code (Case Study)
-    - AVL
+1. Essay/
+    - AVL (Simulasi)/
+    - B-Tree (Simulasi)/
+    - RB Tree (Simulasi + Perbandingan dengan AVL)/
+    - Heaps (Teori + Simulasi)/
+    - Disjoint Set (Teori + Simulasi)/
+2. Code (Case Study)/
+    - AVL/
 
-Aku tambahin juga soal + jawaban dari quiz kalian kemaren. Kalo soal kalian gaada berarti aku gak dapet soalnya :'\
-Okeee, jadi kalau kalian mau nambah latihan soal buat uas bisa masuk ke folder "Soal Latihan Tambahan".\
-(Psst, nanti jawaban aku upload di tanggal 1 Juli :>)\
+Okeee, jadi kalau kalian mau nambah latihan soal buat uas bisa masuk ke folder "Soal Latihan Tambahan". Disitu ada soal-soal quiz kemaren juga buat kalian belajar\
+(Nanti jawaban aku upload di tanggal 1 Juli ya :>)\
 \
 \
 \
