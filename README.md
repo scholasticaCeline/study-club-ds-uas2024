@@ -10,7 +10,7 @@
 2. Code (Case Study)
     - AVL
 
-Aku tambahin juga soal + jawaban dari quiz kalian kemaren. Kalo soal kalian gaada berarti aku gak dapet soalnya :'
+Aku tambahin juga soal + jawaban dari quiz kalian kemaren. Kalo soal kalian gaada berarti aku gak dapet soalnya :'\n
 Okeee, jadi kalau kalian mau nambah latihan soal buat uas bisa masuk ke folder "Soal Latihan Tambahan".
 (Psst, nanti jawaban aku upload di tanggal 1 Juli :>)
 .
